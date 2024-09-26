@@ -1,0 +1,33 @@
+body {
+
+    background-image: url("./img/showcase.jpg");
+
+}
+
+.rubrik {
+
+    font-family: Roboto, sans-serif;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+
+.artikel {
+    background-color: gainsboro;
+
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+    padding: 20px;
+}
+
+.footer{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
